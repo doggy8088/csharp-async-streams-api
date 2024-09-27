@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async-streams-api", "async-streams-api\async-streams-api.csproj", "{A760724C-0944-4501-89DB-62A7F2D23FF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async-streams-api-console", "async-streams-api-console\async-streams-api-console.csproj", "{7E732F5F-47DB-4724-840A-9749BAFCEB03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{621579F6-47F8-474B-95A3-1689C769E982}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A760724C-0944-4501-89DB-62A7F2D23FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A760724C-0944-4501-89DB-62A7F2D23FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A760724C-0944-4501-89DB-62A7F2D23FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A760724C-0944-4501-89DB-62A7F2D23FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E732F5F-47DB-4724-840A-9749BAFCEB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E732F5F-47DB-4724-840A-9749BAFCEB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E732F5F-47DB-4724-840A-9749BAFCEB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E732F5F-47DB-4724-840A-9749BAFCEB03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
